@@ -6,6 +6,5 @@ function main() {
 
     return myString;
 }
-
 console.log(main());
 module.exports = main;
